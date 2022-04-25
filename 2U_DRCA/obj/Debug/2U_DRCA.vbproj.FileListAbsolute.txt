@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\Programación\2U_DRCA\2U_DRCA\bin\Debug\2U_DRCA.exe.config
+C:\Users\HP\Desktop\Programación\2U_DRCA\2U_DRCA\bin\Debug\2U_DRCA.exe
+C:\Users\HP\Desktop\Programación\2U_DRCA\2U_DRCA\bin\Debug\2U_DRCA.pdb
+C:\Users\HP\Desktop\Programación\2U_DRCA\2U_DRCA\bin\Debug\2U_DRCA.xml
+C:\Users\HP\Desktop\Programación\2U_DRCA\2U_DRCA\obj\Debug\2U_DRCA.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Programación\2U_DRCA\2U_DRCA\obj\Debug\_2U_DRCA.Form1.resources
+C:\Users\HP\Desktop\Programación\2U_DRCA\2U_DRCA\obj\Debug\_2U_DRCA.Resources.resources
+C:\Users\HP\Desktop\Programación\2U_DRCA\2U_DRCA\obj\Debug\2U_DRCA.vbproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Programación\2U_DRCA\2U_DRCA\obj\Debug\2U_DRCA.exe
+C:\Users\HP\Desktop\Programación\2U_DRCA\2U_DRCA\obj\Debug\2U_DRCA.xml
+C:\Users\HP\Desktop\Programación\2U_DRCA\2U_DRCA\obj\Debug\2U_DRCA.pdb
+C:\Users\HP\Desktop\Programación\2U_DRCA\2U_DRCA\obj\Debug\_2U_DRCA.Formreporte.resources
